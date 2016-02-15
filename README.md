@@ -1,5 +1,7 @@
 # Expectable
 
+(Work in progress)
+
 Expectable is a lightweight test expectations library for Swift.
 
 Expectations will throw a Failure ([FailureType](https://github.com/endocrimes/FailureType)) when they fail.
